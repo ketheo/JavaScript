@@ -1,2 +1,2 @@
-# JavaScriptCisco
+# JavaScriptCiscoTraining
 Training

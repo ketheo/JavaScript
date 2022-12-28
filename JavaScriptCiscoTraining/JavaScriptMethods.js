@@ -1,3 +1,13 @@
 console.time();
 console.log("test console");
-console.timeEnd();
+console.timeEnd(); 
+
+/**
+ * @timeEnd;
+ * @param
+ * /
+
+/** @type
+ * 
+ */
+
